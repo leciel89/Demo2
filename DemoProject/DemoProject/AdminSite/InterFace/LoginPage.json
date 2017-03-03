@@ -1,0 +1,20 @@
+﻿{ "title": "Admin Login Page",
+  "LoginForm": [
+    {
+      "name": "login",
+      "type": "Email",
+      "description": "Email Field"
+    },
+    {
+      "description": "Password Field",
+      "name": "password",
+      "type": "password"
+    },
+    {
+      "name": "",
+      "type": "submit",
+      "description": "Login button"
+    }
+  ]
+ }
+

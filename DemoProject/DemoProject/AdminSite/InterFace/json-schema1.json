@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "string",
+  "Type": "Array",
+  "properties": {
+    "class": {
+      "type": "array",
+      "items": { }
+    }
+  }
+}
